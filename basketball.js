@@ -16,6 +16,7 @@ function promptForPlayerName(Player2) {
     }
 }
 
+
 function tryTwoPointShot() {
     var name = Math.random();
     var name2 = Math.random();
