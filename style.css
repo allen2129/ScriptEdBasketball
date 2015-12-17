@@ -1,3 +1,15 @@
 body {
     font-family: Helvetica;
 }
+
+.player-one-name{
+    color: blue;
+    font-family: italic;
+    background-color: gold;
+}
+
+.player-two-name{
+    color: red;
+    font-family: bold;
+    background-color: silver;
+}
